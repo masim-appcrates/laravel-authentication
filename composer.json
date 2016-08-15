@@ -1,0 +1,17 @@
+{
+    "name": "masim-appcrates/laravel-authentication",
+    "description": "My Custome Laravel Authentication",
+    "keywords": ["auth"],
+    "homepage": "https://github.com/masim-appcrates/laravel-authentication",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Laravel",
+            "email": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
